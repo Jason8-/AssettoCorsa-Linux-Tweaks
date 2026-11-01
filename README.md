@@ -1,4 +1,4 @@
-# AssettoCorsa-Linux-Tweaks
+# Jason8's Collection of Assetto Corsa Linux Tweaks
 A collection of tweaks, tips and tricks for Assetto Corsa to work properly on Linux
 
 Initial Setup (thanks sihawido:
